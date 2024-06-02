@@ -5,6 +5,7 @@ This repository contains the code and experiments for my Master Thesis on Fairne
 ## Table of Contents
 - [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
+- [Datasets](#datasets)
 
 ## Introduction
 
