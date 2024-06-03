@@ -1,6 +1,7 @@
-# Fairness in Graph Neural Networks using FAME
+# GNN’s FAME: Fairness-Aware MEssages for Graph Neural Networks
 
-This repository contains the code and experiments for the paper, "GNN’s FAME: Fairness-Aware MEssages for Graph Neural Networks (GNNs)". The primary contribution of this work is the development of two novel layers designed to mitigate biases within GNNs: the Fairness-Aware MEssages (FAME) layer and the Attention Fairness-Aware MEssages (A-FAME) layer.
+This repository contains the code and experiments for the paper "GNN’s FAME: Fairness-Aware MEssages for Graph Neural Networks".
+The primary contribution of this work is the development of two novel layers designed to mitigate biases within GNNs: the Fairness-Aware MEssages (FAME) layer and the Attention Fairness-Aware MEssages (A-FAME) layer.
 
 ## Table of Contents
 - [Introduction](#introduction)
