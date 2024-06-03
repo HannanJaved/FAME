@@ -12,7 +12,7 @@ This repository contains the code and experiments for my Master Thesis on Fairne
 Graph Neural Networks (GNNs) are powerful tools for learning representations of graph-structured data. However, GNNs are susceptible to biases that can arise from the underlying data, leading to unfair predictions. To address this issue, we propose two novel message-passing layers:
 
 - **FAME (Fairness-Aware Message Passing)**: This layer adjusts the messages during the aggregation phase based on the disparities in sensitive attributes of connected nodes.
-- **A-FAME (Attentive Fairness-Aware Message Passing)**: This layer extends FAME by incorporating an attention mechanism to weigh the importance of node connections dynamically.
+- **A-FAME (Attention Fairness-Aware Message Passing)**: This layer extends FAME by incorporating an attention mechanism to weigh the importance of node connections dynamically.
 
 These layers aim to ensure more equitable outcomes by mitigating bias propagation within GNNs.
 
