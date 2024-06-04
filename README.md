@@ -6,6 +6,7 @@ The primary contribution of this work is the development of two novel layers des
 ## Table of Contents
 - [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
+- [Layer](#layer)
 - [Datasets](#datasets)
 
 ## Introduction
@@ -21,6 +22,11 @@ These layers aim to ensure more equitable outcomes by mitigating bias propagatio
 Due to the size of the datasets, only the code and some results have been uploaded to this repository.  
 The 'Datasets' folder contains sub-folders for the various datasets on which the FAME and A-FAME have been tested.  
 Since there is no common general use code for the FAME and A-FAME layer (for now), the code for each of the datasets is specific to the dataset and is available as python notebooks.
+
+## Layer
+The FAME and A_FAME layers are available as .py files under the 'Layer' folder.  
+There is also a python notebook available that contains the same code + example usage.  
+For a proper example of the layers, please check the 'Datasets' folder where the layer is applied to specific datasets.
 
 ## Datasets
 The datasets can be found under the following links: 
